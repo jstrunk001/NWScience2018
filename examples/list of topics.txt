@@ -1,0 +1,40 @@
+List of Topics
+
+A) Initial Setup:
+1.	Create r package
+2.	Commit
+3.	Create github respository
+4.	Link to github
+5.	Push to github
+
+B) Git/GitHub Demonstration
+1.	Add goodbye function
+2.	Commit
+3.	Add data
+4.	Commit
+5.	Push
+6.	Look at history
+7.	Look at updates on github
+
+C) Build / Load Package
+8.	Build Package
+9.	Load R Package
+10.	Try hello, goodbye functions
+11.	Try “?goodbye”
+
+D) Add Roxygen header
+12.	https://github.com/jstrunk001/NWScience2018/blob/master/roxy_template/head_v1.0.r
+13.	copy header and paste on top of hello function
+14.	add #’@name, #’@export
+15.	Build Package
+16.	Try “?goodbye”
+
+E) Git history copy /paste
+1.	Open Git GUI
+2.	Visualize history
+3.	Copy / paste old branch
+
+F) Git history Revert
+
+G) Clone existing directory: https://github.com/jstrunk001/NWScience2018.git
+
